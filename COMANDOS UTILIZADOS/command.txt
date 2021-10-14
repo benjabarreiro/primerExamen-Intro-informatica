@@ -1,0 +1,4 @@
+el comando cp sirve para copiar carpetas o archivos de un directorio a otro.
+
+se ejecuta de la siguiente manera:
+cp nombreDeLoQueSeQuiereCopiar rutaHaciaDondeSeLoQuiereCopiar
